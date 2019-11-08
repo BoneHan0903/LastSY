@@ -5,4 +5,5 @@ public class Hello {
     private String age;
     private String sex;
     private double a;
+    private int a;
 }
