@@ -1,7 +1,7 @@
 package com.sy;
 
 public class Hello {
-    private int name;
-    private int age;
-    private int sex;
+    private String name;
+    private String age;
+    private String sex;
 }
